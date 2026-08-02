@@ -1,0 +1,14 @@
+backend/bin/
+backend/obj/
+backend/Uploads/
+backend/target/
+backend-dotnet/
+backend/*.user
+frontend/node_modules/
+frontend/dist/
+.tools/
+.vs/
+*.log
+.env
+.env.*
+backend/src/main/resources/application.yml
