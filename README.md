@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+[README.md](https://github.com/user-attachments/files/30637856/README.md)
+>>>>>>> a7c622d28b9808c6547292766d299bebfc859b1b
 # SelfSync
 
 AI-powered smart interview platform: simulate HR / Technical / Aptitude interviews, submit text / voice / video answers, and get multi-dimensional AI scoring with analytics.
